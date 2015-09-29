@@ -1,0 +1,532 @@
+﻿A King Among Them.swf Movie Report
+-----------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1099    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5.5 - build 349</xmp:CreatorTool> <xmp:CreateDate>2013-07-01T22:46:57-04:00</xmp:CreateDate> <xmp:MetadataDate>2014-03-27T12:25:09-04:00</xmp:MetadataDate> <xmp:ModifyDate>2014-03-27T12:25:09-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:543E5B5DCCB5E311BA2DF4F3118F06D4</stRef:instanceID> <stRef:documentID>xmp.did:6872005F4F1DE311B912D7D70160C599</stRef:documentID> <stRef:originalDocumentID>xmp.did:0B715FE6C1E2E2119E77AD971B608C41</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:553E5B5DCCB5E311BA2DF4F3118F06D4</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:553E5B5DCCB5E311BA2DF4F3118F06D4</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:0B715FE6C1E2E2119E77AD971B608C41</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         156126         156126    Scene 1
+      2        2921450        3077576     (AS 3.0 Classes Export Frame)
+      3              1        3077577    
+      4            333        3077910    
+      5            868        3078778    
+      6           1306        3080084    
+      7             75        3080159    
+      8            709        3080868    
+      9          76419        3157287    
+     10            270        3157557    
+     11            224        3157781    
+     12             11        3157792    
+     13            972        3158764    
+     14            255        3159019    
+     15            225        3159244    
+     16            844        3160088    
+     17            198        3160286    
+     18            171        3160457    
+     19            173        3160630    
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1            135          4212                 70155
+
+Symbol             Shape Bytes    Text Bytes    ActionScript Bytes
+---------------    -----------    ----------    ------------------
+adBoxSymbol                 34             0                     0
+alien1                    1171             0                     0
+alien2                    1013             0                     0
+alien3                    2443             0                     0
+alien4                    2359             0                     0
+alienPlanet               5945             0                     0
+backButton                   0           608                     0
+badBearLogo                  0             0                     0
+Symbol 1                     0             0                     0
+bonvie1                   2633             0                     0
+crown1                     486             0                     0
+bonvie2                   2624             0                     0
+bonvie3                   2132             0                     0
+building1                 3402           402                     0
+cityBuilding2              562             0                     0
+cityBuilding1              682             0                     0
+cityBuilding4              669             0                     0
+buildings                 1784             0                     0
+bullet                      31             0                     0
+car                       2009             0                     0
+chaosButton                  0           620                     0
+chaosHTP                  8034          2234                     0
+ray                         48             0                     0
+cityBack                  2450             0                     0
+cityBuilding3              294             0                     0
+civilian1                 1340             0                     0
+clip                         0             0                     0
+cop                        581             0                     0
+creditsButton                0           620                     0
+deathFade                    0             0                     0
+Symbol 15                   35             0                     0
+dec                      29160             0                     0
+disguise1                  174             0                     0
+disguise2                  161             0                     0
+dotsAnim1                16688             0                     0
+ex                          44             0                     0
+explosion                13307             0                     0
+explosion2              121283             0                     0
+fadeOut                      0             0                     0
+finishButton                 0           652                     0
+flash                        0             0                     0
+Symbol 14                    0             0                     0
+freePlayButton               0           624                     0
+freePlayHTP                795           921                     0
+goButton                     0           600                     0
+ground                     313             0                     0
+howToPlayButton              0           632                     0
+human                      291             0                     0
+icon                      7842             0                     0
+missle                    2615             0                     0
+landButton                   0           612                     0
+lineAnim1                 7435             0                     0
+loader                       0            65                     0
+locButton                  147             0                     0
+locSelect                   80             0                     0
+muteButton                 132             0                     0
+navyGamesButton              0             0                     0
+newGameButton              384           644                     0
+nextButton                   0           608                     0
+ocean                       73             0                     0
+okButton                     0           604                     0
+person1                    143             0                     0
+planetAnim                   0             0                     0
+Symbol 17                    0             0                     0
+player                       0             0                     0
+Symbol 3                    97             0                     0
+Symbol 4                   101             0                     0
+police1                    240             0                     0
+police2                    238             0                     0
+previousButton               0           620                     0
+quitButton                  43           159                     0
+rock1                      297             0                     0
+rock2                      505             0                     0
+rock3                      117             0                     0
+scene1                      99          1519                     0
+stars2                   37738             0                     0
+scene2                     101          1736                     0
+scene3                    2258          2370                     0
+Symbol 5                     0             0                     0
+stars                   151915             0                     0
+scene4                    1203           417                     0
+Symbol 25                    0             0                     0
+Symbol 26                  525             0                     0
+scene5                  300881           508                     0
+Symbol 2                  8013             0                     0
+scene6                 1126302          1084                     0
+Symbol 6                     0             0                     0
+Symbol 8                   991             0                     0
+Symbol 7                   288             0                     0
+scene7                      92          1085                     0
+Symbol 10                    0             0                     0
+Symbol 9                    93             0                     0
+scene8                      88           475                     0
+scene9                       0           803                     0
+Symbol 12                   69             0                     0
+Symbol 13                   76             0                     0
+Symbol 11                   62             0                     0
+scene10                      0           370                     0
+scene11                      0           662                     0
+scene12                      0           487                     0
+Symbol 18                 3793             0                     0
+scene13                      0           172                     0
+Symbol 19                 2543             0                     0
+scene14                     74          1151                     0
+Symbol 20                 2490             0                     0
+scene15                      0           350                     0
+scene16                    815           196                     0
+Symbol 21                  227             0                     0
+Symbol 22                  220             0                     0
+Symbol 23                  226             0                     0
+Symbol 24                    0             0                     0
+scene18                    562          2047                     0
+Symbol 30                   35             0                     0
+Symbol 29                  113             0                     0
+Symbol 28                  504             0                     0
+Symbol 27                  433             0                     0
+skipButton                   0           608                     0
+sky                        335             0                     0
+storyButton                  0           612                     0
+storyHTP                  5081          3939                     0
+Symbol 16                    0             0                     0
+Symbol 65                    0             0                     0
+Symbol 454                   0             0                     0
+Tween 1                      0             0                     0
+Tween 2                      0             0                     0
+Tween 3                      0             0                     0
+Tween 4                      0             0                     0
+Tween 5                      0             0                     0
+Tween 6                      0             0                     0
+Tween 7                      0             0                     0
+Tween 8                      0             0                     0
+Tween 9                      0             0                     0
+Tween 10                     0             0                     0
+Tween 11                     0             0                     0
+Tween 12                     0             0                     0
+Tween 13                     0             0                     0
+Tween 14                     0             0                     0
+Tween 15                     0             0                     0
+Tween 16                     0             0                     0
+Tween 17                     0             0                     0
+Tween 18                     0             0                     0
+Tween 19                     0             0                     0
+Tween 20                     0             0                     0
+Tween 21                     0             0                     0
+Tween 22                     0             0                     0
+Tween 23                     0             0                     0
+Tween 24                     0             0                     0
+Tween 25                     0             0                     0
+Tween 26                     0             0                     0
+Tween 27                     0             0                     0
+Tween 28                     0             0                     0
+Tween 29                     0             0                     0
+Tween 30                     0             0                     0
+Tween 31                     0             0                     0
+Tween 32                     0             0                     0
+Tween 33                     0             0                     0
+Tween 34                     0             0                     0
+Tween 35                     0             0                     0
+Tween 36                     0             0                     0
+Tween 37                     0             0                     0
+Tween 38                     0             0                     0
+Tween 39                     0             0                     0
+Tween 40                     0             0                     0
+Tween 41                     0             0                     0
+Tween 42                     0             0                     0
+Tween 43                     0             0                     0
+Tween 44                     0             0                     0
+Tween 45                     0             0                     0
+Tween 46                     0             0                     0
+Tween 47                     0             0                     0
+Tween 48                     0             0                     0
+Tween 49                     0             0                     0
+Tween 50                     0             0                     0
+Tween 51                     0             0                     0
+Tween 52                     0             0                     0
+Tween 53                     0             0                     0
+Tween 54                     0             0                     0
+Tween 55                     0             0                     0
+Tween 56                     0             0                     0
+Tween 57                     0             0                     0
+Tween 58                     0             0                     0
+Tween 59                     0             0                     0
+Tween 60                     0             0                     0
+Tween 61                     0             0                     0
+Tween 62                     0             0                     0
+Tween 63                     0             0                     0
+Tween 64                     0             0                     0
+Tween 65                     0             0                     0
+Tween 66                     0             0                     0
+Tween 67                     0             0                     0
+Tween 68                     0             0                     0
+Tween 69                     0             0                     0
+Tween 70                     0             0                     0
+Tween 71                     0             0                     0
+Tween 72                     0             0                     0
+Tween 73                     0             0                     0
+Tween 74                     0             0                     0
+Tween 75                     0             0                     0
+Tween 76                     0             0                     0
+Tween 77                     0             0                     0
+Tween 78                     0             0                     0
+Tween 79                     0             0                     0
+Tween 80                     0             0                     0
+Tween 81                     0             0                     0
+Tween 82                     0             0                     0
+Tween 83                     0             0                     0
+Tween 84                     0             0                     0
+Tween 85                     0             0                     0
+Tween 86                     0             0                     0
+Tween 87                     0             0                     0
+Tween 88                     0             0                     0
+Tween 89                     0             0                     0
+Tween 90                     0             0                     0
+Tween 91                     0             0                     0
+Tween 92                     0             0                     0
+Tween 93                     0             0                     0
+Tween 94                     0             0                     0
+Tween 95                     0             0                     0
+Tween 96                     0             0                     0
+Tween 97                     0             0                     0
+Tween 98                     0             0                     0
+Tween 99                     0             0                     0
+Tween 100                    0             0                     0
+Tween 101                    0             0                     0
+Tween 102                    0             0                     0
+Tween 103                    0             0                     0
+Tween 104                    0             0                     0
+Tween 105                    0             0                     0
+Tween 106                    0             0                     0
+Tween 107                    0             0                     0
+Tween 108                    0             0                     0
+Tween 109                    0             0                     0
+Tween 110                    0             0                     0
+Tween 111                    0             0                     0
+Tween 112                    0             0                     0
+Tween 113                    0             0                     0
+Tween 114                    0             0                     0
+Tween 115                    0             0                     0
+Tween 116                    0             0                     0
+Tween 117                    0             0                     0
+Tween 118                    0             0                     0
+Tween 119                    0             0                     0
+Tween 120                    0             0                     0
+Tween 121                    0             0                     0
+Tween 122                    0             0                     0
+Tween 123                    0             0                     0
+Tween 124                    0             0                     0
+Tween 125                    0             0                     0
+Tween 126                    0             0                     0
+Tween 127                    0             0                     0
+Tween 128                    0             0                     0
+Tween 129                    0             0                     0
+Tween 130                    0             0                     0
+Tween 131                    0             0                     0
+Tween 132                    0             0                     0
+Tween 133                    0             0                     0
+Tween 134                    0             0                     0
+Tween 135                    0             0                     0
+Tween 136                    0             0                     0
+Tween 137                    0             0                     0
+Tween 138                    0             0                     0
+Tween 139                    0             0                     0
+Tween 140                    0             0                     0
+Tween 141                    0             0                     0
+Tween 142                    0             0                     0
+Tween 143                    0             0                     0
+Tween 144                    0             0                     0
+Tween 145                    0             0                     0
+Tween 146                    0             0                     0
+Tween 147                    0             0                     0
+Tween 148                    0             0                     0
+Tween 149                    0             0                     0
+Tween 150                    0             0                     0
+Tween 151                    0             0                     0
+Tween 152                    0             0                     0
+Tween 153                    0             0                     0
+Tween 154                    0             0                     0
+Tween 155                    0             0                     0
+Tween 156                    0             0                     0
+Tween 157                    0             0                     0
+Tween 158                    0             0                     0
+Tween 159                    0             0                     0
+Tween 160                    0             0                     0
+Tween 161                    0             0                     0
+Tween 162                    0             0                     0
+Tween 163                    0             0                     0
+Tween 164                    0             0                     0
+Tween 165                    0             0                     0
+Tween 166                    0             0                     0
+Tween 167                    0             0                     0
+Tween 168                    0             0                     0
+Tween 169                    0             0                     0
+Tween 170                    0             0                     0
+Tween 171                    0             0                     0
+Tween 172                    0             0                     0
+Tween 173                    0             0                     0
+Tween 174                    0             0                     0
+Tween 175                    0             0                     0
+Tween 176                    0             0                     0
+Tween 177                    0             0                     0
+Tween 178                    0             0                     0
+Tween 179                    0             0                     0
+Tween 180                    0             0                     0
+Tween 181                    0             0                     0
+Tween 182                    0             0                     0
+Tween 183                    0             0                     0
+Tween 184                    0             0                     0
+Tween 185                    0             0                     0
+Tween 186                    0             0                     0
+Tween 187                    0             0                     0
+Tween 188                    0             0                     0
+Tween 189                    0             0                     0
+Tween 190                    0             0                     0
+Tween 191                    0             0                     0
+Tween 192                    0             0                     0
+Tween 193                    0             0                     0
+Tween 194                    0             0                     0
+Tween 195                    0             0                     0
+Tween 196                    0             0                     0
+Tween 197                    0             0                     0
+Tween 198                    0             0                     0
+Tween 199                    0             0                     0
+Tween 200                    0             0                     0
+Tween 201                    0             0                     0
+Tween 202                    0             0                     0
+Tween 203                    0             0                     0
+Tween 204                    0             0                     0
+Tween 205                    0             0                     0
+Tween 206                    0             0                     0
+Tween 207                    0             0                     0
+Tween 208                    0             0                     0
+Tween 209                    0             0                     0
+Tween 210                    0             0                     0
+Tween 211                    0             0                     0
+Tween 212                    0             0                     0
+Tween 213                    0             0                     0
+Tween 214                    0             0                     0
+Tween 215                    0             0                     0
+Tween 216                    0             0                     0
+Tween 217                    0             0                     0
+Tween 218                    0             0                     0
+Tween 219                    0             0                     0
+Tween 220                    0             0                     0
+Tween 221                    0             0                     0
+Tween 222                    0             0                     0
+Tween 223                    0             0                     0
+Tween 224                    0             0                     0
+Tween 225                    0             0                     0
+Tween 226                    0             0                     0
+Tween 227                    0             0                     0
+Tween 228                    0             0                     0
+Tween 229                    0             0                     0
+Tween 230                    0             0                     0
+Tween 231                    0             0                     0
+Tween 232                    0             0                     0
+Tween 233                    0             0                     0
+Tween 234                    0             0                     0
+Tween 235                    0             0                     0
+Tween 236                    0             0                     0
+Tween 237                    0             0                     0
+Tween 238                    0             0                     0
+Tween 239                    0             0                     0
+Tween 240                    0             0                     0
+Tween 241                    0             0                     0
+Tween 242                    0             0                     0
+Tween 243                    0             0                     0
+Tween 244                    0             0                     0
+Tween 245                    0             0                     0
+Tween 246                    0             0                     0
+Tween 247                    0             0                     0
+Tween 248                    0             0                     0
+Tween 249                    0             0                     0
+Tween 250                    0             0                     0
+Tween 251                    0             0                     0
+Tween 252                    0             0                     0
+Tween 253                    0             0                     0
+Tween 254                    0             0                     0
+Tween 255                    0             0                     0
+Tween 256                    0             0                     0
+Tween 257                    0             0                     0
+Tween 258                    0             0                     0
+Tween 259                    0             0                     0
+Tween 260                    0             0                     0
+Tween 261                    0             0                     0
+Tween 262                    0             0                     0
+Tween 263                    0             0                     0
+Tween 264                    0             0                     0
+Tween 265                    0             0                     0
+Tween 266                    0             0                     0
+Tween 267                    0             0                     0
+Tween 268                    0             0                     0
+Tween 269                    0             0                     0
+Tween 270                    0             0                     0
+Tween 271                    0             0                     0
+Tween 272                    0             0                     0
+Tween 273                    0             0                     0
+Tween 274                    0             0                     0
+Tween 275                    0             0                     0
+Tween 276                    0             0                     0
+Tween 277                    0             0                     0
+Tween 278                    0             0                     0
+Tween 279                    0             0                     0
+Tween 280                    0             0                     0
+Tween 281                    0             0                     0
+Tween 282                    0             0                     0
+Tween 283                    0             0                     0
+Tween 284                    0             0                     0
+Tween 285                    0             0                     0
+Tween 286                    0             0                     0
+Tween 287                    0             0                     0
+Tween 288                    0             0                     0
+Tween 289                    0             0                     0
+Tween 290                    0             0                     0
+Tween 291                    0             0                     0
+Tween 292                    0             0                     0
+Tween 293                    0             0                     0
+Tween 294                    0             0                     0
+Tween 295                    0             0                     0
+Tween 296                    0             0                     0
+Tween 297                    0             0                     0
+Tween 298                    0             0                     0
+Tween 299                    0             0                     0
+Tween 300                    0             0                     0
+Tween 301                    0             0                     0
+Tween 302                    0             0                     0
+Tween 303                    0             0                     0
+Tween 304                    0             0                     0
+Tween 305                    0             0                     0
+Tween 306                    0             0                     0
+Tween 307                    0             0                     0
+Tween 308                    0             0                     0
+Tween 309                    0             0                     0
+Tween 310                    0             0                     0
+Tween 311                    0             0                     0
+Tween 312                    0             0                     0
+Tween 313                    0             0                     0
+Tween 314                    0             0                     0
+Tween 315                    0             0                     0
+Tween 316                    0             0                     0
+Tween 317                    0             0                     0
+Tween 318                    0             0                     0
+Tween 319                    0             0                     0
+Tween 320                    0             0                     0
+Tween 321                    0             0                     0
+Tween 322                    0             0                     0
+Tween 323                    0             0                     0
+Tween 324                    0             0                     0
+Tween 325                    0             0                     0
+Tween 326                    0             0                     0
+Tween 327                    0             0                     0
+Tween 328                    0             0                     0
+Tween 329                    0             0                     0
+Tween 330                    0             0                     0
+VCam_AS3                    64             0                     0
+
+Font Name            Bytes         Characters
+-----------------    ----------    ----------
+LucidaSansUnicode          9300     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+OCRAExtended               1208     AEFHLOPSW 
+BradleyHandITC            54513     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+             63926    Scene 1:Frame 1
+              6229    Scene 1:Frame 2
+
+Bitmap                           Compressed    Original      Compression
+-----------------------------    ----------    ----------    -----------
+navylogo.png                          16270         96200    JPEG Quality=100
+Bad Bear Logo White Small.png         18289       1000000    JPEG Quality=50
+map.png                               74900       3523296    JPEG Quality=50
+
+Event Sounds: 44KHz Stereo 64 kbps MP3
+
+
+Sound name                 Bytes         Format
+-----------------------    ----------    ------
+victory.wav                      4921    44KHz Mono 64 kbps MP3
+taken.wav                        2291    44KHz Mono 64 kbps MP3
+shoot.wav                        2116    44KHz Mono 64 kbps MP3
+select.wav                        889    44KHz Mono 64 kbps MP3
+Mystery Life.WAV               214089    22KHz Stereo 64 kbps MP3
+hit.wav                           889    44KHz Mono 64 kbps MP3
+Hiding in the Stars.WAV        187439    22KHz Stereo 64 kbps MP3
+ex1.wav                          5447    44KHz Mono 64 kbps MP3
+back.wav                          889    44KHz Mono 64 kbps MP3
+ambiance2.mp3                   83732    22KHz Mono 32 kbps MP3
+ambiance1.mp3                   79637    11KHz Mono 0 kbps MP3
+abduct.wav                      20701    44KHz Mono 64 kbps MP3
+death.wav                       15090    44KHz Mono 64 kbps MP3
+Gone in Flames.WAV             107489    22KHz Stereo 64 kbps MP3
+
+
+
+
